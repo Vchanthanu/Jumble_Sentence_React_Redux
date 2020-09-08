@@ -1,0 +1,11 @@
+.mainArea{
+  padding-top: 90px;
+  padding-bottom: 45px;
+  min-height: calc(100vh);
+}
+.appColor{
+  background-color: rgb(150, 215, 245);
+}
+.footer{
+  opacity: 0.99;
+}

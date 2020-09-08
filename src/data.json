@@ -1,0 +1,216 @@
+{
+  "question": [
+    {
+      "name": "Alphabet",
+      "sentences": [
+        {
+          "id": 1,
+          "content": "A"
+        },
+        {
+          "id": 2,
+          "content": "B"
+        },
+        {
+          "id": 3,
+          "content": "C"
+        },
+        {
+          "id": 4,
+          "content": "D"
+        }
+      ],
+      "solvedBy": [
+        2,
+        3
+      ],
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Number",
+      "solvedBy": [],
+      "sentences": [
+        {
+          "id": 1,
+          "content": "1"
+        },
+        {
+          "id": 2,
+          "content": "2"
+        },
+        {
+          "id": 3,
+          "content": "3"
+        },
+        {
+          "id": 4,
+          "content": "4"
+        }
+      ]
+    },
+    {
+      "name": "Roman Number",
+      "sentences": [
+        {
+          "id": 1,
+          "content": "I"
+        },
+        {
+          "id": 2,
+          "content": "II"
+        },
+        {
+          "id": 3,
+          "content": "III"
+        },
+        {
+          "id": 4,
+          "content": "IV"
+        },
+        {
+          "id": 5,
+          "content": "V"
+        }
+      ],
+      "solvedBy": [],
+      "id": 3
+    },
+    {
+      "name": "Months",
+      "sentences": [
+        {
+          "id": 1,
+          "content": "January"
+        },
+        {
+          "id": 2,
+          "content": "February"
+        },
+        {
+          "id": 3,
+          "content": "March"
+        },
+        {
+          "id": 4,
+          "content": "April"
+        },
+        {
+          "id": 5,
+          "content": "May"
+        },
+        {
+          "id": 6,
+          "content": "June"
+        },
+        {
+          "id": 7,
+          "content": "July"
+        },
+        {
+          "id": 8,
+          "content": "August"
+        },
+        {
+          "id": 9,
+          "content": "September"
+        },
+        {
+          "id": 10,
+          "content": "October"
+        },
+        {
+          "id": 11,
+          "content": "November"
+        },
+        {
+          "id": 12,
+          "content": "December"
+        }
+      ],
+      "solvedBy": [
+        2
+      ],
+      "id": 4
+    },
+    {
+      "name": "The Two Goats Story",
+      "sentences": [
+        {
+          "id": 1,
+          "content": "One day, two goats try to cross a weak and narrow bridge across the river."
+        },
+        {
+          "id": 2,
+          "content": "The goats are at either end of the bridge, but neither is ready to make way for the other."
+        },
+        {
+          "id": 3,
+          "content": "They come to the centre of the bridge and begin fighting about who should cross first."
+        },
+        {
+          "id": 4,
+          "content": "As they fight mindlessly, the bridge gives in, taking both the goats down into the river with it."
+        }
+      ],
+      "solvedBy": [
+        2
+      ],
+      "id": 5
+    },
+    {
+      "name": "Crow & The Pitcher",
+      "sentences": [
+        {
+          "id": 1,
+          "content": "One day, a crow was very thirsty and found a pitcher with little water in it."
+        },
+        {
+          "id": 2,
+          "content": "It couldn’t reach the water with its beak."
+        },
+        {
+          "id": 3,
+          "content": " After a little thought, the crow came up with an idea."
+        },
+        {
+          "id": 4,
+          "content": " It picked up a few stones one at a time and put them in the pitcher, until the water came up."
+        },
+        {
+          "id": 5,
+          "content": " He happily drank the water and flew away."
+        }
+      ],
+      "solvedBy": [],
+      "id": 6
+    }
+  ],
+  "users": [
+    {
+      "firstname": "Admin",
+      "lastname": "M",
+      "email": "admin@gmail.com",
+      "password": "admin123",
+      "role": "admin",
+      "id": 1
+    },
+    {
+      "firstname": "user1",
+      "lastname": "u",
+      "email": "user1@gmail.com",
+      "password": "user",
+      "role": "user",
+      "solved": [],
+      "id": 2
+    },
+    {
+      "firstname": "user2",
+      "lastname": "r",
+      "email": "user2@gmail.com",
+      "password": "user",
+      "role": "user",
+      "id": 3
+    }
+  ]
+}
